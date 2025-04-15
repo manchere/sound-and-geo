@@ -1,11 +1,3 @@
-/*!\file window.cpp
- * \brief GL4Dummies, exemple éclairage complet avec
- * GL4Dummies. Complété avec placage d'une texture écrite directement
- * dans un tableau en RAM CPU puis transférée en RAM-GPU.
- * + texture fichier + normal_map
- * \author Farès BELHADJ, amsi@up8.edu
- * \date April 08 2022
- */
 
 /* inclusion des entêtes de fonctions de création et de gestion de
  * fenêtres système ouvrant un contexte favorable à GL4dummies. Cette
