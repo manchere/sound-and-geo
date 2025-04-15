@@ -1,4 +1,3 @@
-
 /* inclusion des entêtes de fonctions de création et de gestion de
  * fenêtres système ouvrant un contexte favorable à GL4dummies. Cette
  * partie est dépendante de la bibliothèque SDL2 */
